@@ -3,6 +3,7 @@
 
 
 ![Metrics](https://metrics.lecoq.io/Galm1?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Galm1&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Galm1&langs_count=8)
 <!--
 **Galm1/Galm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
